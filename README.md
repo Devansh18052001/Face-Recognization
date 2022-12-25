@@ -8,7 +8,9 @@
 #  Additional Features!
 
   - Added Emotion detection
-  
+ 
+ # Data Set 
+ Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
   
 # Installation
 
@@ -55,9 +57,6 @@ A webcam window will popup and start recognition proccess<br>
 ## **Emotions**
 >![emotion](./angry.png)<br>
 >![emotion](./sad.png)<br>
-
-
-Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 <br><br>
 Made By ❤ : [Devansh Bhatt](mailto:devanshbhatt1805@gmail.com)<br>
